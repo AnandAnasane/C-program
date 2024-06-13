@@ -1,0 +1,26 @@
+
+1. create the structure of n  Flowers ( id , name , color ) and display the  
+    information of the n flowers ------------ DONE
+
+2. create the  structure of n Students ( id , name , age , marks[6]) which has id ,name, 
+    age and marks OF THE 6 subjects.calculate the percentage of each student and  display   
+    the information of the n students.-----------DONE --- student_structure.c (project)
+
+3. Diamond Pattern , upper triangle pattern and lower triangle pattern  
+
+4. write a file handling program to display the information of the students structure  
+    in output.txt 
+
+5. prime no -DONE
+
+, fibo series .- DONE
+
+
+
+Topic for Final Test
+
+1. Array///
+2. String
+3. Pointer////
+4. Structure////
+5. pattern//////
